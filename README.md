@@ -1,4 +1,4 @@
-# clientpos
+# Client POS
 
 A new Flutter project.
 
