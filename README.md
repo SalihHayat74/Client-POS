@@ -1,6 +1,6 @@
 # Client POS
 
-A new Flutter project.
+My project
 
 ## Getting Started
 
